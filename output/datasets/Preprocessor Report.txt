@@ -1,0 +1,5 @@
+MXMLM Preprocessor
+Checked 13259 files, of which 3889 were identified as letters, of which 498 had addresses.
+498 places and 1150 dates added over a total of 1547 items.
+Bad document IDs from the Chronology that could not be resolved:
+"N3491" "No-MM_K000?"
